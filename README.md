@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hey, I'm Pero
 
-<!--
-**peroperogamer172-design/peroperogamer172-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Minecraft Developer with 3+ years of experience in server development and plugin systems.
 
-Here are some ideas to get you started:
+⚡ Skills
+Java (Minecraft Plugins)
+Paper / Spigot / Bukkit API
+Server Setup & Optimization
+Plugin Configuration
+🚀 Projects
+WatchdogBanSystem (Moderation Plugin)
+OP Titles (Custom Titles Plugin)
+🌐 Portfolio
+https://modrinth.com/plugin/watchdogbansystem
+https://modrinth.com/plugin/op-titles
+🎮 Specialization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skyblock • Lifesteal • Bedwars • Skywars
+
+📩 Contact
+
+Discord: (@zapnapxd_64007)
